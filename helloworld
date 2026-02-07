@@ -1,3 +1,24 @@
-<!doctype html>
-<HTML lang="en">
+<!DOCTYPE html>
+<html>  
+    <div class="nav">
+        <a class="active" href="Home1.html">Home</a>
+        <a href="dev.html">Developer Roadmap</a>
+        <a href="news.html">News</a>
+        <a href="workout.html">Workout</a>
+    </div>
 <head>
+    <meta charset='utf-8'> 
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>home</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='Styles.css'> <!--  link meie style sheeti jaoks mis hoiab meie stiili ütlasena -->
+</head>
+<body>
+    
+    <h1>Hello</h1>
+    <p>welcome to the home page from the top navigation bar you will be able to access our developer roadmap, news and a personalised workout routine</p>
+    <footer>
+        <p>Autoor: Dominic Arkhan Baum  <br> Eriala: EDTR  <br>  õppejõud: Natalja Ivleva </p>
+        <p> if the navigation bar disapears please click the white box where it used to be to access it</p>
+    </footer>
+</body>
